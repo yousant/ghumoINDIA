@@ -15,9 +15,9 @@ Language Assistance: Overcome language barriers with our integrated language ass
 
 Safety and Security: Prioritize your safety during your travels. Find essential safety information, emergency contact details, and tips to ensure a smooth and secure journey.
 
-Budget-Friendly Options: Explore a wide range of budget-friendly travel options, including accommodation, transportation, and activities, to suit your financial preferences.
 
-Interactive Maps: Navigate through cities and regions effortlessly with our interactive maps, highlighting points of interest and suggesting the best routes.
+
+
 
 Link
 https://yousant.github.io/ghumoINDIA/

@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(./images/palace-405618.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+.container{
+    /* color: white; */
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    overflow: hidden;
+   
+    
+}
+.container h1{
+    margin-bottom: 30px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(69, 150, 97);
+}
+.box{
+    width: 100%;
+    
+}
+.box input{
+    width: 80%;
+    /* color: white; */
+    border: none;
+    outline: none;
+    margin-top: 10px;
+   padding-top: 10px;
+   font-size: 15px;
+   /* border-radius: 5px; */
+   padding-left: 5px;
+   padding-bottom: 5px ;
+   margin-bottom: 7px;
+   background: none;
+   
+   font-family: 'Poppins', sans-serif;
+   font-size: 16px;
+   
+   
+   
+    
+}
+.name{
+    color:rgb(69, 150, 97);
+    
+}
+.number{
+    color: rgb(69, 150, 97);
+}
+.email{
+    color: rgb(69, 150, 97);
+}
+
+.btn{
+    padding:7px 7px;
+    cursor: pointer;
+    outline: none;
+    border: 2px solid rgb(47, 132, 76);
+    width: 40%;
+    font-size: 15px;
+    margin-top: 25px;
+    border-radius: 15px;
+    margin-left: 3px;
+    background: none;
+     color: rgb(47, 132, 76);
+     font-family: 'Poppins', sans-serif;
+     
+}
+.btn:hover{
+    color:  white;
+    background-color: rgb(69, 150, 97);
+    transition:ease-in-out 0.3s;
+    
+}
+
+.popup{
+    
+    background: white;
+    border-radius: 4px;
+    position: absolute;
+    top: 35%;
+    left: 10%;
+}
